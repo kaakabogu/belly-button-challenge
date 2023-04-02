@@ -50,11 +50,8 @@ The following task is advanced and therefore optional.
 
  - Update the chart whenever a new sample is selected.
  ![gauge](Images/gauge.png)
-## Hints
- - Use console.log inside of your JavaScript code to see what your data looks like at each step.
-
- - Refer to the Plotly.js documentationLinks to an external site. when building the plots.
- 
+## Where to find the deployed solution
+ - The app.js and bonus.js file can be found in the static folder.
 
 
 ## References
