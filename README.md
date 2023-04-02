@@ -52,7 +52,7 @@ The following task is advanced and therefore optional.
  ![gauge](Images/gauge.png)
 ## Where to find the deployed solution
  - The app.js and bonus.js file can be found in the static folder.
-
+ - Here is the link/website to access the dashbaord: https://kaakabogu.github.io/belly-button-challenge/
 
 ## References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
